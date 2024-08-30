@@ -58,4 +58,8 @@
   display: flex;
   gap: 8px;
  }
+ #info li:hover{
+ color: var(--brand-color);
+ cursor: pointer;
+}
 

@@ -6,7 +6,8 @@ main .gallery {
   width: 1280px;
 
   gap: 24px;
-  padding: 24px 0 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .gallery img {
